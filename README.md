@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 About me
+
+I'm an Actuarial Sciences student from Universidad Anáhuac México. I enjoy working on data science and machine learning projects, working primarily with Python and R.
+
+I´m currently learning more advanced techniques for machine learning and data visualization.
 
 <!--
 **AlanGaona28/AlanGaona28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
